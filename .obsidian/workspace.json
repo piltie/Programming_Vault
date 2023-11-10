@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Studyeewe.md",
+                "file": "To Study.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Studyeewe.md",
+                "file": "To Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Studyeewe.md",
+                "file": "To Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Studyeewe.md"
+                "file": "To Study.md"
               }
             }
           }
@@ -148,6 +148,6 @@
   },
   "active": "ac84bc364432a2ed",
   "lastOpenFiles": [
-    "To Studyeewe.md"
+    "To Study.md"
   ]
 }
