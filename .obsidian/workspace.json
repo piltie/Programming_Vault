@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4e08921fea2481f8",
+        "id": "3102059b414feb0e",
         "type": "tabs",
         "children": [
           {
-            "id": "ac84bc364432a2ed",
+            "id": "6ee077e0eb8a73aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Study.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "To Study.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac84bc364432a2ed",
+  "active": "6ee077e0eb8a73aa",
   "lastOpenFiles": [
-    "To Study.md"
+    "CSharp/The CSharp Players Guide Notes.md",
+    "CSharp/To Study - CSharp.md",
+    "To Study.md",
+    "CSharp",
+    "Untitled 1.md"
   ]
 }
