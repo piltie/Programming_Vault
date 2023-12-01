@@ -1,0 +1,18 @@
+- Unary (base-1):  When the base which you're operating with has one digit
+- Binary: two
+- Bit: smaller version of a byte -> comes from binary digit 
+	- Just 0 or a 1
+- Decimal system: dec -> 10  
+- Transistors: computers have millions of transistor that can either be flipped on to represent 1's or flipped off to represent 0's 
+- 8 bits are in a byte
+- ASCII  and Unicode
+- RGB(amount of red, greend and blue) dots on the screen
+- Videos are pixels that change overtime, a sequence of pictures
+- Music, frequency values (duration, how deeper, etc.)
+- They don't always agree in formats
+
+- Car is an abstraction (hide low implementation details)
+- Problem solving: input (parameters, arguments) -> algorithm (functions) -> output (side effect, something visual that happens)
+- Algorithm: step-by-step instruction for solving some problem
+- Event: when something happens
+- Arguments and parameters
