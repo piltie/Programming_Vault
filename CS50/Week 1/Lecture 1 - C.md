@@ -5,6 +5,8 @@
 	- clear - clean terminal
 	- ./main - run code
 	- code filename.c - create new file
+	- ls - lists all files in the folder
+	- mev hello hello.c- rename and moves files
 - GUI: Graphical User Interface
 - Semicolon after statement
 - Library: code that someone else wrote (third party code), header file is what that declares it to exist
